@@ -1,5 +1,5 @@
 # 🌟 About Me
----
+
 Hi, I’m **Shruti Agre** – a backend-focused developer who believes great APIs should be as expressive as a great painting (and I do that too 🎨).
 
 👩‍💻 **Java & Spring Boot Enthusiast**
