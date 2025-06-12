@@ -1,34 +1,29 @@
+# 🌟 About Me
+---
+Hi, I’m **Shruti Agre** – a backend-focused developer who believes great APIs should be as expressive as a great painting (and I do that too 🎨).
 
-## 🚀 About Me
-👋 **Aspiring Web Developer | Passionate Learner | Fresher**
+👩‍💻 **Java & Spring Boot Enthusiast**
+From building user-authenticated blog platforms to managing role-based access with precision, I enjoy writing clean, maintainable code with a backend-first mindset. My REST APIs aren’t just functional — they’re thoughtfully structured and thoroughly tested.
 
+🧠 **Problem Solver by Skill, Artist by Soul**
+When I’m not debugging, I’m probably sketching, painting, or dancing. I believe creativity fuels logic, and that balance makes me both a coder and a creator.
 
-🔥**Passion-Driven Learner**
+🛠️ **Skilled In**
+`Java | Spring Boot | REST API | Hibernate | MySQL | HTML | CSS | JS | JQuery | Bootstrap`
 
-Eagerly exploring web development, continuously growing skills.
+🌱 **Currently Exploring**
 
-🎯 **Focused Skills**
+* JWT Security & OAuth2
+* Docker Basics
+* Data Structures & Algorithms
+* Building full-stack projects with clean architecture
 
-Proficient in HTML, CSS, JavaScript; aspiring towards advanced front-end and back-end expertise.
+🎯 **What Drives Me**
+The joy of solving real-world problems and creating user-centric solutions that work seamlessly under the hood.
 
-🌱 **Commitment to Growth**
+📬 **Let’s Connect**
 
-Constantly learning new frameworks, dedicated to crafting modern and responsive websites.
+* 💼 [LinkedIn](https://www.linkedin.com/in/shrutiagre/)
+* 💻 [GitHub](https://github.com/shrugi)
+* 📧 [shrutiagre24@gmail.com](mailto:shrutiagre24@gmail.com)
 
-🔍**Seeking Dynamic Projects**
-
- Actively seeking roles to contribute skills, learn from experts, and make a meaningful impact.
-
-
-
-📧 **Let's Connect! Open to Opportunities** 
-
-Reach out at  shrutiagre24@gmail.com
-
-
-
-## 🌐SOCIAL
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_agre_shruti_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ezSnippet)
-## Tech Stack
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
