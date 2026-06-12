@@ -24,6 +24,5 @@ The joy of solving real-world problems and creating user-centric solutions that 
 📬 **Let’s Connect**
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/shrutiagre/)
-* 💻 [GitHub](https://github.com/shrugi)
 * 📧 [shrutiagre24@gmail.com](mailto:shrutiagre24@gmail.com)
 
