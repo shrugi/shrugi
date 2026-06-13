@@ -33,20 +33,6 @@ When I'm not debugging Spring Boot, I'm probably deep in skincare research or Ko
 
 ---
 
-## 🚀 Projects
-
-### 📝 User Blog Application
-> A full-featured blog platform with user auth, CRUD operations, and role-based access control.
-> **Stack:** Spring Boot • Hibernate • MySQL • REST API
-> [🔗 View Repo](https://github.com/shrugi/blog-app)
-
----
-
-### 📚 Book Review System
-> Users can add books, write reviews, and rate them — with secure login and session handling.
-> **Stack:** Spring Boot • Spring Security • MySQL • JPA
-> [🔗 View Repo](https://github.com/shrugi/book-review-system)
-
 ---
 
 ## 🔨 Currently Building
@@ -57,17 +43,6 @@ Goal: clean architecture, global exception handling, Swagger docs
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrugi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrugi&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrugi&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
-</p>
 
 ---
 
@@ -79,23 +54,7 @@ Goal: clean architecture, global exception handling, Swagger docs
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shrugi/shrugi/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## ⚡ Random Facts About Me
-
-- 🌆 Born & raised in Mumbai — local train survivor 🚃
-- ☕ Chai is my compile button
-- 🌸 Skincare > everything (yes, even deadlines)
-- 🧩 I debug better at night — don't judge
-- 📍 Dream role: backend dev at a product startup
-
----
 
 ## 💬 Dev Quote
 
