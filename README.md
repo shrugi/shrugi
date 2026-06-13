@@ -24,5 +24,5 @@
 ## 🤝 Let's Connect
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/_agre_shruti_?igsh=ZXVldWYxZXQxcGoz)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shrutiagre)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:shrutiagre24@gmail.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&to=shrutiagre24@gmail.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/shrugi)
